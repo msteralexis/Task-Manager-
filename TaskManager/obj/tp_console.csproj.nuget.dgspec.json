@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/alexis/Bureau/csharp_projet_note/git/projet_csharp_escudero/tp_console/tp_console.csproj": {}
+  },
+  "projects": {
+    "/home/alexis/Bureau/csharp_projet_note/git/projet_csharp_escudero/tp_console/tp_console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alexis/Bureau/csharp_projet_note/git/projet_csharp_escudero/tp_console/tp_console.csproj",
+        "projectName": "tp_console",
+        "projectPath": "/home/alexis/Bureau/csharp_projet_note/git/projet_csharp_escudero/tp_console/tp_console.csproj",
+        "packagesPath": "/home/alexis/.nuget/packages/",
+        "outputPath": "/home/alexis/Bureau/csharp_projet_note/git/projet_csharp_escudero/tp_console/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/alexis/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
